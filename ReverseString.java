@@ -1,8 +1,8 @@
 /*
-* Eden Ghirmai
-* ReverseString.java
-*
-* Reverse a String - Enter a string and the program will reverse it and print it out.*/
+ * Eden Ghirmai
+ * ReverseString.java
+ *
+ * Reverse a String - Enter a string and the program will reverse it and print it out.*/
 
 public class ReverseString {
 	public static void main(String[] args) {
