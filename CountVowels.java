@@ -23,7 +23,7 @@ public class CountVowels {
 			for (int j = 0; j < vowels.length; j++) {
 				if (current == vowels[j]) {
 					sum++;
-					counts[j] = counts[j] + 1;
+					counts[j]++;
 				}
 			}
 		}
