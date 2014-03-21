@@ -13,7 +13,7 @@ public class CountVowels {
 	
 		int sum = 0;
 		char[] vowels = {'a', 'e', 'i', 'o', 'u'};
-		int[] counts = {0, 0, 0, 0, 0};
+		int[] counts = new int[5];
 		
 		System.out.print("What word/phrase would you like to use? ");
 		String word = in.nextLine().toLowerCase();
